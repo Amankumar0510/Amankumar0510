@@ -1,31 +1,73 @@
-<h1 align="center">Hi 👋, I'm Aman kumar</h1>
-<h3 align="center">A passionate Electronics Engineer from India | "Exploring Circuits & Signals | Electronics & Communication Engineering | Innovating One Line at a Time ⚡📡"</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumar0510&label=Profile%20views&color=0e75b6&style=flat" alt="amankumar0510" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amankumar0510" alt="amankumar0510" /></a> </p>
-
-- 🔭 I’m currently working on [AI-Powered Smart Glasses](https://1drv.ms/p/c/07953e32e6491793/EQ5W1PldEI5Oqhv7MLAKBUEB4naFtjX1m4KOfbd1tt9l0A?e=eUGWwj)
-
-- 🌱 I’m currently learning **as an Electronics & Communication Student**
-
-- 👯 I’m looking to collaborate on **Electronics Domain projects**
-
-- 👨‍💻 All of my projects are available at [http://www.linkedin.com/in/aman-kumar-jha-49245429a](http://www.linkedin.com/in/aman-kumar-jha-49245429a)
-
-- 📫 How to reach me **amankumarjhaj2021@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aman kumar (vivek) jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman kumar (vivek) jha" height="30" width="40" /></a>
-<a href="https://instagram.com/aman_jha_1510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman_jha_1510" height="30" width="40" /></a>
+<p align="center">
+  <img src="assets/banner.svg" alt="Aman Kumar: Electronics and Communication Engineering. Embedded Systems, IoT and UAV." width="100%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aman-kumar-jha-49245429a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:amankumarjhaaj2021@gmail.com"><img src="https://img.shields.io/badge/Email-Write%20to%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amankumar0510&show_icons=true&locale=en&layout=compact" alt="amankumar0510" /></p>
+## About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amankumar0510&show_icons=true&locale=en" alt="amankumar0510" /></p>
+I am a B.Tech student in **Electronics & Communication Engineering** at JIET Group of Institutions, Jodhpur (CGPA 8.5). I build hardware-and-software projects with **ESP32, Arduino, ATmega32 and Raspberry Pi**, and I work with drone systems.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amankumar0510&" alt="amankumar0510" /></p>
+- 📍 Based in Delhi, India
+- 🛠️ Focus: embedded systems, IoT, sensor interfacing and PCB design
+- 🚁 UAV exposure: Pixhawk, ArduPilot / PX4, GPS, IMU, telemetry and flight-data analysis
+- 🌱 Interested in: battery management systems and electric-vehicle technology
+- 💡 Exploring an idea: AI-powered smart glasses
+- 🤝 Open to collaborating on electronics, embedded and IoT projects
+
+## Tech stack
+
+**Programming**<br>
+![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Boards and protocols**<br>
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![ATmega32](https://img.shields.io/badge/ATmega32-444444?style=flat-square)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![I2C](https://img.shields.io/badge/I²C-555555?style=flat-square)
+![SPI](https://img.shields.io/badge/SPI-555555?style=flat-square)
+![PWM](https://img.shields.io/badge/PWM-555555?style=flat-square)
+
+**UAV**<br>
+![Pixhawk](https://img.shields.io/badge/Pixhawk-1F2937?style=flat-square)
+![ArduPilot](https://img.shields.io/badge/ArduPilot-1F2937?style=flat-square)
+![PX4](https://img.shields.io/badge/PX4-1F2937?style=flat-square)
+
+**Design and tools**<br>
+![Altium](https://img.shields.io/badge/Altium-A5915F?style=flat-square)
+![Proteus](https://img.shields.io/badge/Proteus-1C79B3?style=flat-square)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square)
+![MATLAB](https://img.shields.io/badge/MATLAB%20%7C%20ThingSpeak-E16737?style=flat-square)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## Featured projects
+
+| Project | What it does | Built with |
+|---|---|---|
+| **Self-balancing robot** | Two-wheeled robot that keeps itself upright with IMU tilt sensing, a complementary filter and PID control. A Wi-Fi web dashboard gives live camera video, telemetry and remote control. | ESP32-CAM, MPU6500, L298N, C++, PlatformIO |
+| [**ECG patient health monitoring**](https://github.com/Amankumar0510/ECG-Patient-Health-Monitoring) | Reads ECG signal values, uploads them to the cloud for visualisation and emails a PDF report. | Raspberry Pi, ADS1115, Python, ThingSpeak, MATLAB |
+| **Wireless charger system** | Inductive power transfer with rectification and filtering, studied in simulation and on hardware. | Inductive coupling, Proteus |
+| **Home automation** | Microcontroller-based control and monitoring of lights and appliances. | ATmega32 |
+| **Portable GPS tracker** | Pocket-sized safety device that sends live location to an app or dashboard. | ESP32, GPS |
+| **Smart dustbin** | Sensor-operated lid with obstacle detection and fill-level monitoring. | Arduino |
+
+## Experience
+
+| Role | Organisation | Period |
+|---|---|---|
+| Drone / UAV Engineering Intern | UAV engineering internship | Sep 2026 – Present |
+| Product R&D Management Executive | PBL Ventures (Crazinos), Noida | Apr 2026 – Aug 2026 |
+| Signal & Telecommunication Intern | Indian Railways, East Central Railway, Hajipur | Jun 2025 – Jul 2025 |
+
+## Certifications and leadership
+
+- **Certifications:** C Programming and NI Multisim Circuit Designing (Infosys), IoT Edge Computing and IoT Analytics (Infosys), MATLAB & Simulink, Embedded Systems and VLSI courses (NIELIT), Arduino and IoT Programming (Alison)
+- **Programmes:** IEEE EDS Summer School and IEEE CASS programme on neuromorphic and edge AI computing, IIT Jodhpur
+- **Leadership:** President, Electronics & Communication Engineering Student Council
