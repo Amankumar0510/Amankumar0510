@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://amankumar0510.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-7C3AED?style=for-the-badge" alt="Portfolio website"></a>
   <a href="https://www.linkedin.com/in/aman-kumar-jha-49245429a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/aman_jha_._._/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:amankumarjhaaj2021@gmail.com"><img src="https://img.shields.io/badge/Email-Write%20to%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
