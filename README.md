@@ -53,7 +53,7 @@ I am a B.Tech student in **Electronics & Communication Engineering** at JIET Gro
 |---|---|---|
 | **Self-balancing robot** | Two-wheeled robot that keeps itself upright with IMU tilt sensing, a complementary filter and PID control. A Wi-Fi web dashboard gives live camera video, telemetry and remote control. | ESP32-CAM, MPU6500, L298N, C++, PlatformIO |
 | [**ECG patient health monitoring**](https://github.com/Amankumar0510/ECG-Patient-Health-Monitoring) | Reads ECG signal values, uploads them to the cloud for visualisation and emails a PDF report. | Raspberry Pi, ADS1115, Python, ThingSpeak, MATLAB |
-| **Wireless charger system** | Inductive power transfer with rectification and filtering, studied in simulation and on hardware. | Inductive coupling, Proteus |
+| [**Wireless charger system**](https://github.com/Amankumar0510/Wireless-Charger-System) | Power-transfer circuit with tuned LC stages, rectification and filtering, studied in simulation and on hardware. | LC circuits, BAT54 diodes, Proteus |
 | **Home automation** | Microcontroller-based control and monitoring of lights and appliances. | ATmega32 |
 | **Portable GPS tracker** | Pocket-sized safety device that sends live location to an app or dashboard. | ESP32, GPS |
 | **Smart dustbin** | Sensor-operated lid with obstacle detection and fill-level monitoring. | Arduino |
